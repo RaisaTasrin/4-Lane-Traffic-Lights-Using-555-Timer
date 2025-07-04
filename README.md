@@ -1,1 +1,2 @@
 # 4-Lane-Traffic-Lights-Using-555-Timer
+This project builds a simple four-lane traffic signal system using a 555 timer and CD4017, without microcontrollers. It automatically manages signals in sequence, with adjustable timing via a potentiometer. Tested both in simulation and hardware, it works reliably but lacks real-time traffic response and turn signals. Ideal for basic setups like cantonments, it serves as a low-cost educational tool with potential for future upgrades.
